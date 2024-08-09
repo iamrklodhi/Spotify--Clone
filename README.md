@@ -1,6 +1,6 @@
-# Spofity Clone html css
+# Spotify Clone html css
 
-in this repository you will see an html css template for a cool designed spofity clone.
+in this repository you will see an html css template for a cool designed spotify clone.
 
 ## :heavy_check_mark: useful for who:
 
